@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Anna
 
-I am an Analytics Engineer with a passion for adhering to best practices in data transformation, **documentation**, and ensuring **data quality**.
+I am an Analytics Engineer with a passion for adhering to best practices in **data transformation**, **documentation**, and ensuring **data quality**.
 
 In 2020, I discovered the fascinating world of data engineering and data analysis, and I learned tools such as **dbt**, **Airflow**, and **Tableau**. I was fortunate to be involved in challenging projects that pushed me to extensively use **SQL** and **Python**. 
 
